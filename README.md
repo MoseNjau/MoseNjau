@@ -1,9 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://iyfbodn.com/?dn=rishavchanda.io&pid=9POT3387I&pbsubid=76037fda-b7e5-4fc4-94e5-bffa1a9e912e&noads=http%3A%2F%2Fiyfbodn.com%2F%3Fdn%3Drishavchanda.io%26skipskenzo%3Dtrue&enc_txt=X2bm1vWsU7p6J9o1lKXvBc06Gw%2BXSaaH8hn0Qd9zgyFM5QBV234lWT%2By%2FUbgxtf4hZRRLeq3gumvt5ovUhtHiKEsHbC5VVnEm9%2FvTLvJ3TuXpRIxUtx3D2cLBtypNFEM&enc_lnk=pyJzZeiuy0qVi0ztK3wj5DK1q3uhtQE%2Bn0xD9gBeBopfQ3yHppq9CiDb%2BcJW3eqL)
+[![MasterHead](https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)](https://iyfbodn.com/?dn=rishavchanda.io&pid=9POT3387I&pbsubid=76037fda-b7e5-4fc4-94e5-bffa1a9e912e&noads=http%3A%2F%2Fiyfbodn.com%2F%3Fdn%3Drishavchanda.io%26skipskenzo%3Dtrue&enc_txt=X2bm1vWsU7p6J9o1lKXvBc06Gw%2BXSaaH8hn0Qd9zgyFM5QBV234lWT%2By%2FUbgxtf4hZRRLeq3gumvt5ovUhtHiKEsHbC5VVnEm9%2FvTLvJ3TuXpRIxUtx3D2cLBtypNFEM&enc_lnk=pyJzZeiuy0qVi0ztK3wj5DK1q3uhtQE%2Bn0xD9gBeBopfQ3yHppq9CiDb%2BcJW3eqL)
 
 <h1 align="center">Hi 👋, I'm Moses Njau</h1>
 <h3 align="center">A passionate Software Engineering</h3>
 
-<p align="left"> <img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" alt="mosenjau" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Smart Contract Application**
 
