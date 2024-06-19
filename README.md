@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moses Njau</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 - 🔭 I’m currently working on **Smart Contract Applications**
 - 🌱 I’m currently learning **React Native** and **Next.js**
 - 💬 Ask me about **Django**, **Python**, and **React**
