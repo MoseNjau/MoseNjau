@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Moses Njau</h1>
-<h3 align="center">A Passionate Software Engineer</h3>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+GitHub!;Hi+%F0%9F%91%8B+I'm+Moses+Njau!;Hope+You+Enjoy+%3A)">
+</p>
+
+## 👨‍💻 About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 - 🔭 I’m currently working on **Smart Contract Applications**
 - 🌱 I’m currently learning **React Native** and **Next.js**
 - 💬 Ask me about **Django**, **Python**, and **React**
 - 📫 How to reach me: **njaumoses83@gmail.com**
 - ⚡ Fun fact: **I have a great sense of humor**
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mosenjau)
 
