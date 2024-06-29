@@ -7,6 +7,8 @@
 - 📫 How to reach me: **njaumoses83@gmail.com**
 - ⚡ Fun fact: **I have a great sense of humor**
 
+![Profile Views](https://komarev.com/ghpvc/?username=mosenjau)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/moses-njau-29354524b" target="_blank">
